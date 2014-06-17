@@ -53,6 +53,7 @@ function getBaseURL() {
   var baseURL = 'http://' + ip + ':' + port + '/api';
   return baseURL;
 }
+
 /**
  * This kicks off the application
  * @type {[type]}
